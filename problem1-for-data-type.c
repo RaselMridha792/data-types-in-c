@@ -16,6 +16,20 @@ int main () {
       // float avg = (a + b + c) / 3;
       // printf("the avarage number is: %.1f", avg);
 
+      // 3. ইউজার থেকে একটি অক্ষর (char) ইনপুট নাও এবং তার ASCII মান প্রিন্ট করো।
+      // char character;
+      // printf("enter your character to see ASCII: ");
+      // scanf("%c", &character);
+      // printf("your ASCII number is: %d", character);
+
+      // 4. ইউজার থেকে দুইটি double সংখ্যা ইনপুট নিয়ে গুণফল দেখাও।
+      // double x, y;
+      // printf("please enter your numbers: ");
+      // scanf("%lf %lf", &x, &y);
+      // double multiply = x * y;
+      // printf("your multiplacation is: %lf", multiply);
+
+      // 5. ইউজার থেকে একটি নাম (string) ইনপুট নিয়ে একটি মেসেজ দেখাও।
       
     return 0;
 }
